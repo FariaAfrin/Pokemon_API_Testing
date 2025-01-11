@@ -1,4 +1,4 @@
-![Pokémon API Image](Poké API.png)
+![Pokémon API Image](Poké_API.png)
 
 # Pokémon API Testing
 
