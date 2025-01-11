@@ -1,6 +1,6 @@
 # Pokémon API Testing
 **Pokémon API Testing using Postman**
-	`#RRGGBB`
+	#RRGGBB
 
 **API URL:** https://pokeapi.co/api/v2/berry/45
 
