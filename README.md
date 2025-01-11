@@ -1,5 +1,5 @@
 # Pokémon API Testing
-/Poké API.png
+ ![Pokémon API Image](pic.jpg) 
 **Pokémon API Testing using Postman**
 
 **API URL:** https://pokeapi.co/api/v2/berry/45
