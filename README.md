@@ -5,6 +5,7 @@
 **Pokémon API Testing using Postman**
 
 **API URL:** https://pokeapi.co/api/v2/berry/45
+**Postman Collection URL:** https://www.postman.com/fariaafrin/public-workspace/collection/0dv1ihm/pokmon-api
 
 **Question:**
 The final project for this course is to build a suite of tests for the Pokémon API using Postman.
